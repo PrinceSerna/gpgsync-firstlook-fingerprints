@@ -9,6 +9,7 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
 D6F0 37AE 1A83 4EC4 7915  F899 0876 A370 C200 B6AE # Ana Freitas <ana.freitas@theintercept.com>
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
+319D 89B4 3BB1 0778 180D  CAEA F7BA 352A 625F 706C # Andres Osorio <andres.osorio@firstlook.org>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
 A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna.cardoso@theintercept.com>
