@@ -141,7 +141,6 @@ BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@fi
 72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com>
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
 CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerner@theintercept.com>
-3844 28CD 765C 44E7 59B5  48BF A998 423E 2153 4D14 # Sharon Weinberger <sharon.weinberger@theintercept.com>
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
