@@ -72,9 +72,9 @@ F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@
 EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@firstlook.org>
 5905 446D 52E9 6655 38B0  FDAA 8AE3 C609 DC28 4680 # Joshua Thayer <joshua@firstlook.org>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
+0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
 37C1 7E38 0549 E939 A1E5  470E 5770 0524 26A1 261F # Justin Nesci <Justin.Nesci@firstlook.org>
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
-6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
 E47A 124B 9AD2 E7BD E855  BF40 6A91 48A2 0001 7D8E # Karina Dandashi <karina.dandashi@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
