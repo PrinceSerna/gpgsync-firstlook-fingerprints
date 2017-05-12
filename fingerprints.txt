@@ -9,7 +9,6 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
 D6F0 37AE 1A83 4EC4 7915  F899 0876 A370 C200 B6AE # Ana Freitas <ana.freitas@theintercept.com>
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
-319D 89B4 3BB1 0778 180D  CAEA F7BA 352A 625F 706C # Andres Osorio <andres.osorio@firstlook.org>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
 A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna.cardoso@theintercept.com>
@@ -74,6 +73,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
 37C1 7E38 0549 E939 A1E5  470E 5770 0524 26A1 261F # Justin Nesci <Justin.Nesci@firstlook.org>
+8CB7 D747 11B6 651D 93ED  97B0 8CE9 E074 0091 9D30 # Kate Bolger <katebolgerlsks@gmail.com>
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
 1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
 E47A 124B 9AD2 E7BD E855  BF40 6A91 48A2 0001 7D8E # Karina Dandashi <karina.dandashi@firstlook.org>
